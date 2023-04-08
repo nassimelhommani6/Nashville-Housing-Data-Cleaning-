@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/130168330/230727630-b4a0e150-529a-46b5-9b39-c7e38270d5be.png)
+
+
 # Nashville Housing Data Cleaning
 
 This SQL project focuses on cleaning data for the Nashville Housing dataset. The data is loaded from a CSV file into a MySQL table named nashville_housing. The following SQL techniques were used to clean the data:
